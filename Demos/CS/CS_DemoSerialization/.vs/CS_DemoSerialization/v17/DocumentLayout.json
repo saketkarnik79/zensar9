@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|c:\\zensar9\\demos\\cs\\cs_demoserialization\\cs_demoserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|solutionrelative:cs_demoserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|c:\\zensar9\\demos\\cs\\cs_demoserialization\\cs_demoserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|solutionrelative:cs_demoserialization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|c:\\zensar9\\demos\\cs\\cs_demoserialization\\cs_demoserialization\\models\\demographics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C2CB65-B512-4AE5-B352-8A01A1B71607}|CS_DemoSerialization\\CS_DemoSerialization.csproj|solutionrelative:cs_demoserialization\\models\\demographics\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Form1.cs",
+              "RelativeDocumentMoniker": "CS_DemoSerialization\\Form1.cs",
+              "ToolTip": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Form1.cs",
+              "RelativeToolTip": "CS_DemoSerialization\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:46:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Models\\Demographics\\Person.cs",
+              "RelativeDocumentMoniker": "CS_DemoSerialization\\Models\\Demographics\\Person.cs",
+              "ToolTip": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Models\\Demographics\\Person.cs",
+              "RelativeToolTip": "CS_DemoSerialization\\Models\\Demographics\\Person.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:35:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Form1.cs",
+              "RelativeDocumentMoniker": "CS_DemoSerialization\\Form1.cs",
+              "ToolTip": "C:\\Zensar9\\Demos\\CS\\CS_DemoSerialization\\CS_DemoSerialization\\Form1.cs [Design]",
+              "RelativeToolTip": "CS_DemoSerialization\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:33:14.922Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

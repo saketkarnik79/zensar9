@@ -1,0 +1,14 @@
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\bin\Debug\net8.0\CS_DemoUnsafeCode.exe
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\bin\Debug\net8.0\CS_DemoUnsafeCode.deps.json
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\bin\Debug\net8.0\CS_DemoUnsafeCode.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\bin\Debug\net8.0\CS_DemoUnsafeCode.dll
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\bin\Debug\net8.0\CS_DemoUnsafeCode.pdb
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.dll
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\refint\CS_DemoUnsafeCode.dll
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.pdb
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\CS_DemoUnsafeCode.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoUnsafeCode\CS_DemoUnsafeCode\obj\Debug\net8.0\ref\CS_DemoUnsafeCode.dll

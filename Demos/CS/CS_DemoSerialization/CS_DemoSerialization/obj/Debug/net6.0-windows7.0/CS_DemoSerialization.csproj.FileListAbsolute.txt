@@ -1,0 +1,16 @@
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\bin\Debug\net6.0-windows7.0\CS_DemoSerialization.exe
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\bin\Debug\net6.0-windows7.0\CS_DemoSerialization.deps.json
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\bin\Debug\net6.0-windows7.0\CS_DemoSerialization.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\bin\Debug\net6.0-windows7.0\CS_DemoSerialization.dll
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\bin\Debug\net6.0-windows7.0\CS_DemoSerialization.pdb
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.frmPerson.resources
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.csproj.GenerateResource.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.dll
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\refint\CS_DemoSerialization.dll
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.pdb
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\CS_DemoSerialization.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net6.0-windows7.0\ref\CS_DemoSerialization.dll

@@ -1,0 +1,14 @@
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\bin\Debug\net8.0\CS_DemoEvents.exe
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\bin\Debug\net8.0\CS_DemoEvents.deps.json
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\bin\Debug\net8.0\CS_DemoEvents.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\bin\Debug\net8.0\CS_DemoEvents.dll
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\bin\Debug\net8.0\CS_DemoEvents.pdb
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.dll
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\refint\CS_DemoEvents.dll
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.pdb
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\CS_DemoEvents.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoEvents\CS_DemoEvents\obj\Debug\net8.0\ref\CS_DemoEvents.dll

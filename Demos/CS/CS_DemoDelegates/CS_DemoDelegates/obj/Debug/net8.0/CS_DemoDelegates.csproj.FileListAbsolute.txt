@@ -1,0 +1,14 @@
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\bin\Debug\net8.0\CS_DemoDelegates.exe
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\bin\Debug\net8.0\CS_DemoDelegates.deps.json
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\bin\Debug\net8.0\CS_DemoDelegates.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\bin\Debug\net8.0\CS_DemoDelegates.dll
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\bin\Debug\net8.0\CS_DemoDelegates.pdb
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.dll
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\refint\CS_DemoDelegates.dll
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.pdb
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\CS_DemoDelegates.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoDelegates\CS_DemoDelegates\obj\Debug\net8.0\ref\CS_DemoDelegates.dll

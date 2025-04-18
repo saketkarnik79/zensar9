@@ -1,0 +1,11 @@
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\bin\Debug\net8.0\ProviderLib.deps.json
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\bin\Debug\net8.0\ProviderLib.dll
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\bin\Debug\net8.0\ProviderLib.pdb
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.dll
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\refint\ProviderLib.dll
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ProviderLib.pdb
+C:\Zensar9\Demos\CS\CS_DemoAssembliesAndNugetPackages\ProviderLib\obj\Debug\net8.0\ref\ProviderLib.dll

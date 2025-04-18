@@ -1,0 +1,14 @@
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\bin\Debug\net8.0\CS_DemoCollections.exe
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\bin\Debug\net8.0\CS_DemoCollections.deps.json
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\bin\Debug\net8.0\CS_DemoCollections.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\bin\Debug\net8.0\CS_DemoCollections.dll
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\bin\Debug\net8.0\CS_DemoCollections.pdb
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.dll
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\refint\CS_DemoCollections.dll
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.pdb
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\CS_DemoCollections.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoCollections\CS_DemoCollections\obj\Debug\net8.0\ref\CS_DemoCollections.dll

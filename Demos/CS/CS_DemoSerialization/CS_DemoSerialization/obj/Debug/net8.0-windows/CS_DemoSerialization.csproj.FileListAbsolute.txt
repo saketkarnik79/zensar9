@@ -1,0 +1,6 @@
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.frmPerson.resources
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.csproj.GenerateResource.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoSerialization\CS_DemoSerialization\obj\Debug\net8.0-windows\CS_DemoSerialization.csproj.CoreCompileInputs.cache

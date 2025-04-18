@@ -1,0 +1,14 @@
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\bin\Debug\net8.0\CS_DemoGenerics.exe
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\bin\Debug\net8.0\CS_DemoGenerics.deps.json
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\bin\Debug\net8.0\CS_DemoGenerics.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\bin\Debug\net8.0\CS_DemoGenerics.dll
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\bin\Debug\net8.0\CS_DemoGenerics.pdb
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.dll
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\refint\CS_DemoGenerics.dll
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.pdb
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\CS_DemoGenerics.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoGenerics\CS_DemoGenerics\obj\Debug\net8.0\ref\CS_DemoGenerics.dll

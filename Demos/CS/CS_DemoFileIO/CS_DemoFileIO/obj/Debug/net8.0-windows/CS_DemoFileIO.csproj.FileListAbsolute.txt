@@ -1,0 +1,16 @@
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0-windows\CS_DemoFileIO.exe
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0-windows\CS_DemoFileIO.deps.json
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0-windows\CS_DemoFileIO.runtimeconfig.json
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0-windows\CS_DemoFileIO.dll
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\bin\Debug\net8.0-windows\CS_DemoFileIO.pdb
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.frmFiles.resources
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.csproj.GenerateResource.cache
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.AssemblyInfoInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.AssemblyInfo.cs
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.csproj.CoreCompileInputs.cache
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.dll
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\refint\CS_DemoFileIO.dll
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.pdb
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\CS_DemoFileIO.genruntimeconfig.cache
+C:\Zensar9\Demos\CS\CS_DemoFileIO\CS_DemoFileIO\obj\Debug\net8.0-windows\ref\CS_DemoFileIO.dll
